@@ -137,5 +137,5 @@ Example response:
 }
 ```
 
-![Tests](https://img.shields.io/github/workflow/status/RafinadR/ci-cd_test/pull_request.yml)
+![Tests](https://img.shields.io/github/workflow/status/RafinadR/ci-cd_test/pull_request)
 
