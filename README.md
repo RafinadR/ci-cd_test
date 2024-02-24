@@ -137,5 +137,5 @@ Example response:
 }
 ```
 
-
+![Tests](https://img.shields.io/github/workflow/status/RafinadR/ci-cd_test/GitHub Action Demo)
 
