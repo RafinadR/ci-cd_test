@@ -136,5 +136,6 @@ Example response:
   "message": "Product deleted."
 }
 ```
+![example workflow](https://github.com/RafinadR/ci-cd_test/actions/workflows/pull_request.yml/badge.svg)
 
 ![Tests](https://img.shields.io/github/workflow/status/RafinadR/ci-cd_test/pull_request)
